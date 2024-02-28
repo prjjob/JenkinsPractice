@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("Hello World!");
-        System.out.println("Just for demo");
+        System.out.println("Testing github webhooks");
     }
 }
